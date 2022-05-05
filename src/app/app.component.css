@@ -1,0 +1,20 @@
+.container {
+  margin-top: 5rem;
+}
+.randomText {
+  margin-bottom: 0.5rem;
+}
+.randomText {
+  display: inline;
+  margin: 0 auto;
+}
+.pending {
+  color: grey;
+}
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
